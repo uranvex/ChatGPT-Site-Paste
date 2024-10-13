@@ -1,0 +1,27 @@
+.search-engine .question h1 {
+    color: snow;
+    margin-top: 300px;
+    margin-left: 795px;
+}
+
+.input {
+    margin-top: 10px;
+    margin-left: 670px;
+    color: white;
+    white-space: nowrap;
+}
+
+.input input {
+    background-color: #3e3e3ef5;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 30px;
+    color: #fff;
+    width: 575px;
+}
+
+.input .bx bx-link-alt {
+    transform: translate(0px 10px);
+}
